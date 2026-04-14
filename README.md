@@ -63,7 +63,7 @@ Detects:
 
 ## 🚨 Example Alert
 
-![SNS Alert](images/sns-alert.png)
+![SNS Alert](images/sns-alert.jpg)
 
 ---
 
